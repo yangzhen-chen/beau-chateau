@@ -1,0 +1,3 @@
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/cmake-build-debug/CMakeFiles/rouge-like.dir

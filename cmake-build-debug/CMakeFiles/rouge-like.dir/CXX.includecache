@@ -1,0 +1,248 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bottle.h
+exception
+-
+item.h
+../include/item.h
+creature.h
+../include/creature.h
+monster.h
+../include/monster.h
+
+../include/creature.h
+iostream
+-
+vector
+-
+gameObject.h
+../include/gameObject.h
+item.h
+../include/item.h
+
+../include/curses/curses.h
+stdarg.h
+-
+stddef.h
+-
+stdio.h
+-
+wchar.h
+-
+stdbool.h
+-
+
+../include/game.h
+list
+-
+memory
+-
+iostream
+-
+creature.h
+../include/creature.h
+curses/curses.h
+../include/curses/curses.h
+map.h
+../include/map.h
+mainmap.h
+../include/mainmap.h
+player.h
+../include/player.h
+key.h
+../include/key.h
+
+../include/gameObject.h
+iostream
+-
+
+../include/item.h
+iostream
+-
+gameObject.h
+../include/gameObject.h
+
+../include/key.h
+item.h
+../include/item.h
+
+../include/mainmap.h
+iostream
+-
+vector
+-
+string
+-
+gameObject.h
+../include/gameObject.h
+creature.h
+../include/creature.h
+item.h
+../include/item.h
+map.h
+../include/map.h
+
+../include/mankind.h
+creature.h
+../include/creature.h
+monster.h
+../include/monster.h
+
+../include/map.h
+iostream
+-
+vector
+-
+string
+-
+gameObject.h
+../include/gameObject.h
+creature.h
+../include/creature.h
+item.h
+../include/item.h
+
+../include/monster.h
+mankind.h
+../include/mankind.h
+
+../include/player.h
+mankind.h
+../include/mankind.h
+
+../include/rouge-like.h
+iostream
+-
+memory
+-
+game.h
+../include/game.h
+
+../include/weapons.h
+item.h
+../include/item.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/bottle.cpp
+bottle.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/bottle.h
+game.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/game.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/creature.cpp
+creature.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/creature.h
+game.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/game.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/game.cpp
+game.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/game.h
+bottle.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/bottle.h
+monster.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/monster.h
+mankind.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/mankind.h
+mainmap.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/mainmap.h
+weapons.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/weapons.h
+curses/curses.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/curses/curses.h
+cmath
+-
+functional
+-
+time.h
+-
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/item.cpp
+item.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/item.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/key.cpp
+key.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/key.h
+string
+-
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/mainmap.cpp
+mainmap.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/mainmap.h
+map.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/map.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/mankind.cpp
+mankind.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/mankind.h
+weapons.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/weapons.h
+string
+-
+game.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/game.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/map.cpp
+map.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/map.h
+vector
+-
+string
+-
+algorithm
+-
+gameObject.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/gameObject.h
+creature.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/creature.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/monster.cpp
+monster.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/monster.h
+weapons.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/weapons.h
+string
+-
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/player.cpp
+player.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/player.h
+game.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/game.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/rouge-like.cpp
+rouge-like.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/rouge-like.h
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/ui.cpp
+game.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/game.h
+bottle.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/bottle.h
+monster.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/monster.h
+mankind.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/mankind.h
+mainmap.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/mainmap.h
+weapons.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/weapons.h
+curses/curses.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/curses/curses.h
+cmath
+-
+comutil.h
+-
+
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/weapons.cpp
+weapons.h
+/Volumes/Seagate Basic/文稿/之前学习/c++/rouge-like/src/weapons.h
+string
+-
+
